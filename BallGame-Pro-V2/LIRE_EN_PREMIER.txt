@@ -1,0 +1,16 @@
+BALLGAME PRO V2 - PROJET COMPLET (JAVA 21 + SWING)
+
+CE ZIP CONTIENT :
+- BallGame-Pro-V2.jar : jeu executable pret a l'emploi.
+- src/main/java/ : code source Java (dont AudioGenerator.java).
+- src/main/resources/ : musique, sons et icone.
+- tests/ : tests Java.
+- build.bat, run.bat : scripts Windows.
+- README.md : documentation du projet.
+
+POUR JOUER SUR WINDOWS 11 :
+1. Extraire TOUT le contenu du ZIP.
+2. Ouvrir un terminal PowerShell dans le dossier BallGame-Pro-V2.
+3. Executer : java -jar .\BallGame-Pro-V2.jar
+
+Necessite Java 21 installe. Aucun Python ni bibliotheque externe requis.
